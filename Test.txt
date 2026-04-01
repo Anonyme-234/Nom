@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-A Lorem ipsum dolor sit amet => consectetur adipiscing elit. Cras venenatis quam eu quam dictum accumsan.
-=======
 A Lorem ipsum dolor sit amet : consectetur adipiscing elit. Cras venenatis quam eu quam dictum accumsan.
->>>>>>> 917db12 (plop)
  
 Aenean nulla purus, mattis at mattis a, ultrices sed erat. Morbi consequat ultrices magna, nec efficitur 
  sem auctor non. Etiam mattis interdum volutpat. Nam non enim auctor, gravida dolor sit amet, commodo sapien.
